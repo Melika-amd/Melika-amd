@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Melika
-- 👀 I’m interested in ML, LLM, AI
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Resaerch areas where biochemistry and Machine learning meet
+  
 - 😄 Pronouns: She/ her
 
 <!---
