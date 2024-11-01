@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Melika
-- I'm thesis based masters student in Computerscience at MUN
+- I'm a thesis-based master's student in Computer Science at Memorial University of Newfoundland (MUN).
